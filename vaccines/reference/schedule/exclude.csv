@@ -1,0 +1,11 @@
+exclusions,reason
+TT,Given during pregnancy
+Influenza,Not considering as routine
+Influenza_Adult,Not considering as routine; Adult
+Influenza_Pediatric,Not considering as routine
+Rabies,Routine
+Pneumo_ps,Adult
+Td,Adult
+VitA,Not considering as immunization for the time being
+VitaminA,Not considering as immunization for the time being
+Zoster,Adult

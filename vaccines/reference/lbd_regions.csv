@@ -1,0 +1,118 @@
+title,region,country
+Central Sub-Saharan Africa,vax_cssa,AGO
+Central Sub-Saharan Africa,vax_cssa,CAF
+Central Sub-Saharan Africa,vax_cssa,COD
+Central Sub-Saharan Africa,vax_cssa,COG
+Central Sub-Saharan Africa,vax_cssa,GAB
+Central Sub-Saharan Africa,vax_cssa,GNQ
+North Africa Middle East,vax_name,AFG
+North Africa Middle East,vax_name,DZA
+North Africa Middle East,vax_name,EGY
+North Africa Middle East,vax_name,IRN
+North Africa Middle East,vax_name,IRQ
+North Africa Middle East,vax_name,JOR
+North Africa Middle East,vax_name,LBY
+North Africa Middle East,vax_name,MAR
+North Africa Middle East,vax_name,OMN
+North Africa Middle East,vax_name,PSE
+North Africa Middle East,vax_name,SDN
+North Africa Middle East,vax_name,SYR
+North Africa Middle East,vax_name,TUN
+Central Asia Eastern Europe,vax_caeu,ARM
+Central Asia Eastern Europe,vax_caeu,AZE
+Central Asia Eastern Europe,vax_caeu,GEO
+Central Asia Eastern Europe,vax_caeu,KGZ
+Central Asia Eastern Europe,vax_caeu,MDA
+Central Asia Eastern Europe,vax_caeu,TJK
+Central Asia Eastern Europe,vax_caeu,TKM
+Central Asia Eastern Europe,vax_caeu,UKR
+Central Asia Eastern Europe,vax_caeu,UZB
+Western Sub-Saharan Africa,vax_wssa,BEN
+Western Sub-Saharan Africa,vax_wssa,BFA
+Western Sub-Saharan Africa,vax_wssa,CIV
+Western Sub-Saharan Africa,vax_wssa,CMR
+Western Sub-Saharan Africa,vax_wssa,CPV
+Western Sub-Saharan Africa,vax_wssa,GHA
+Western Sub-Saharan Africa,vax_wssa,GIN
+Western Sub-Saharan Africa,vax_wssa,GMB
+Western Sub-Saharan Africa,vax_wssa,GNB
+Western Sub-Saharan Africa,vax_wssa,LBR
+Western Sub-Saharan Africa,vax_wssa,MLI
+Western Sub-Saharan Africa,vax_wssa,MRT
+Western Sub-Saharan Africa,vax_wssa,NER
+Western Sub-Saharan Africa,vax_wssa,NGA
+Western Sub-Saharan Africa,vax_wssa,SEN
+Western Sub-Saharan Africa,vax_wssa,SLE
+Western Sub-Saharan Africa,vax_wssa,STP
+Western Sub-Saharan Africa,vax_wssa,TCD
+Western Sub-Saharan Africa,vax_wssa,TGO
+Oceania,vax_seas,IDN
+Oceania,vax_seas,KHM
+Oceania,vax_seas,LAO
+Oceania,vax_seas,MMR
+Oceania,vax_seas,MYS
+Oceania,vax_seas,PHL
+Oceania,vax_seas,PNG
+Oceania,vax_seas,THA
+Oceania,vax_seas,TLS
+Oceania,vax_seas,VNM
+Andean South America,vax_ansa,BOL
+Andean South America,vax_ansa,ECU
+Andean South America,vax_ansa,PER
+Andean South America,vax_ansa,TTO
+Caribbean,vax_crbn,DOM
+Caribbean,vax_crbn,GRD
+Caribbean,vax_crbn,HTI
+Caribbean,vax_crbn,JAM
+Caribbean,vax_crbn,LCA
+Caribbean,vax_crbn,VCT
+Caribbean,vax_crbn,VIR
+Central America,vax_ctam,BLZ
+Central America,vax_ctam,COL
+Central America,vax_ctam,CRI
+Central America,vax_ctam,SLV
+Central America,vax_ctam,GTM
+Central America,vax_ctam,HND
+Central America,vax_ctam,MEX
+Central America,vax_ctam,NIC
+Central America,vax_ctam,Pan
+Central America,vax_ctam,VEN
+East Asia,vax_eaas,CHN
+East Asia,vax_eaas,MNG
+South Asia,vax_soas,BGD
+South Asia,vax_soas,BTN
+South Asia,vax_soas,IND
+South Asia,vax_soas,NPL
+South Asia,vax_soas,LKA
+South Asia,vax_soas,PAK
+Tropical South America,vax_trsa,BRA
+Tropical South America,vax_trsa,GUF
+Tropical South America,vax_trsa,GUY
+Tropical South America,vax_trsa,PRY
+Tropical South America,vax_trsa,SUR
+Eastern Sub-Saharan Africa,vax_essa,SYC
+Eastern Sub-Saharan Africa,vax_essa,BDI
+Eastern Sub-Saharan Africa,vax_essa,COM
+Eastern Sub-Saharan Africa,vax_essa,DJI
+Eastern Sub-Saharan Africa,vax_essa,ERI
+Eastern Sub-Saharan Africa,vax_essa,ETH
+Eastern Sub-Saharan Africa,vax_essa,KEN
+Eastern Sub-Saharan Africa,vax_essa,MDG
+Eastern Sub-Saharan Africa,vax_essa,MWI
+Eastern Sub-Saharan Africa,vax_essa,MOZ
+Eastern Sub-Saharan Africa,vax_essa,RWA
+Eastern Sub-Saharan Africa,vax_essa,SOM
+Eastern Sub-Saharan Africa,vax_essa,SSD
+Eastern Sub-Saharan Africa,vax_essa,TZA
+Eastern Sub-Saharan Africa,vax_essa,UGA
+Eastern Sub-Saharan Africa,vax_essa,YMN
+Eastern Sub-Saharan Africa,vax_essa,ZMB
+Southern Sub-Saharan Africa,vax_sssa,BWA
+Southern Sub-Saharan Africa,vax_sssa,LSO
+Southern Sub-Saharan Africa,vax_sssa,NAM
+Southern Sub-Saharan Africa,vax_sssa,SWZ
+Southern Sub-Saharan Africa,vax_sssa,ZAF
+Southern Sub-Saharan Africa,vax_sssa,ZWE
+Central America,vax_ctam,PAN
+Eastern Sub-Saharan Africa,vax_essa,YEM
+Caribbean,vax_crbn,CUB

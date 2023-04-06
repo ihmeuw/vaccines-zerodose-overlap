@@ -1,0 +1,12 @@
+risk,me_id,acause,cause_id,rei_id,rei_name,type
+vacc_dtp3,19631,diptheria,338,327,vacc_dtp3,direct
+vacc_dtp3,19631,whooping,339,327,vacc_dtp3,direct
+vacc_dtp3,19631,tetanus,340,327,vacc_dtp3,direct
+vacc_mcv1,10602,measles,341,318,vacc_mcv1,metan
+vacc_hib3,10590,meningitis_hib,334,315,vacc_hib3,metan
+vacc_hib3,10590,lri,322,315,vacc_hib3,dismod
+vacc_rotac,10598,diarrhea_rota,311,317,vacc_rotac,metan
+vacc_pcv3,10594,meningitis_pneumo,333,316,vacc_pcv3,direct
+vacc_pcv3,10594,lri,322,316,vacc_pcv3,dismod
+vacc_pcv3,10594,otitis,329,316,vacc_pcv3,metan
+vacc_mcv2,19627,measles,341,359,vacc_mcv2,direct

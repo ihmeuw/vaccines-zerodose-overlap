@@ -1,0 +1,5 @@
+region,samples,slots,mem
+vax_cssa,500,10,300
+vax_essa,500,10,500
+vax_seas,500,10,500
+vax_wssa,500,10,350

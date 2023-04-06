@@ -1,0 +1,10 @@
+name,path
+geospatial_root,<FILEPATH>
+mbg_root,<FILEPATH>
+covariate_root,<FILEPATH>
+survey_shapefile_root,<FILEPATH>
+map_root,<FILEPATH>
+mbg_store,<FILEPATH>
+code_root,<FILEPATH>
+singularity_root,<FILEPATH>
+temp_root,<FILEPATH>

@@ -1,0 +1,14 @@
+vax_age,age_bin,definition,worldpop_ids,gbd_ids,worldpop_ids_new,age_month_start,age_month_end,age_year_start,age_year_end,age_bin_agg
+age_bin1,1,0_5_m,a0000t,"c(42, 388)",a0000t1,0,5,0,0,
+age_bin2,2,6_8_m,a0000t,,a0000t2,6,8,0,0,
+age_bin3,3,9_11_m,a0000t,,a0000t3,9,11,0,0,
+age_bin4,4,12_23_m,a0004t,49,a0101t,12,23,1,1,
+age_bin5,5,2_y,a0004t,50,a0202t,24,35,2,2,
+age_bin6,6,3_y,a0004t,51,a0303t,36,47,3,3,
+age_bin7,7,4_y,a0004t,52,a0404t,48,59,4,4,
+age_bin8,8,5_14_y,a0514t,23,a0514t,60,179,5,14,
+age_bin9,9,15_49_y,a1549t,24,a1549t,180,599,15,49,
+age_bin10,10,50_74_y,a5074t,"c(15,16,17,18,19)",a5074t,600,899,50,74,
+age_bin11,11,75_pl_y,a75plt,"c(20, 21)",a75plt,900,9999,75,9999,
+age_bin12,12,under1_y,a0000t,28,a0000t,0,11,0,0,TRUE
+age_bin13,13,under5_y,a0004t,1,a0004t,0,59,0,4,TRUE
